@@ -10,13 +10,13 @@ import lombok.NoArgsConstructor;
 @NoArgsConstructor
 @AllArgsConstructor
 public class ReceiptDto {
-  private long id;
+  private Long id;
   private String storeName;
-  private String storeAdress;
+  private String storeAddress;
   private List<String>  productName;
   private List<Float> productPrice;
   private List<Float> productCount;
-  private float price;
+  private Float price;
   private  String prediction;
 
 }
