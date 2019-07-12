@@ -1,4 +1,4 @@
-package com.memesious.receipt.database;
+package receipt_database;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;

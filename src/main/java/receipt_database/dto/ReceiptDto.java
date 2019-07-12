@@ -1,4 +1,4 @@
-package com.memesious.receipt.database.dto;
+package receipt_database.dto;
 import java.util.List;
 import lombok.AllArgsConstructor;
 import lombok.Builder;
